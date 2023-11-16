@@ -2,6 +2,9 @@
 Small game using Pytactx library
 
 Autors:
--Saloknight
--tf129
--Deviant
+
+  -Saloknight
+
+  -tf129
+
+  -Tiks Omega
