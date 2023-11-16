@@ -16,11 +16,11 @@ When you are killed, you have to wait 3 seconds before you respawn in the map. Y
 ### What happens when you kill an ennemy agent ? 💥🔫
 When you kill an ennemy, you have a 35% chance of dropping a PowerUp.
 ## List of PowerUp ⭐
-Illimited ammo during 3sec
-Sniper mode (one shot but you have a 3sec cooldown between 2 shots)
-Shield during 3sec
-Heal (you recover half your lost HP)
-Invisibility during 2sec
+Illimited ammo during 3sec  
+Sniper mode (one shot but you have a 3sec cooldown between 2 shots)  
+Shield during 3sec  
+Heal (you recover half your lost HP)  
+Invisibility during 2sec  
 5 coins
 ### For the admins
 Explain what the admin needs to do to host a game with students.
@@ -39,6 +39,6 @@ No tests for now
 ## Road map
 A lot
 ## Authors 
-@Saloknight
-@TiksOmega
+@Saloknight  
+@TiksOmega  
 @tf129
