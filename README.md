@@ -20,7 +20,7 @@ Sniper mode (one shot but you have a 3sec cooldown between 2 shots)
 Shield during 3sec  
 Heal (you recover half your lost HP)  
 Invisibility during 2sec  
-5 coins
+5 coins (à voir pour supprimer)
 ## Use cases 💡
 ### For the admins
 Explain what the admin needs to do to host a game with students.
