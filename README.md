@@ -12,16 +12,16 @@ When the game starts, 2 teams of 3 peoples fight to get in the ennemy's territor
 The team can score a point if one of the player steps into the ennemy's spawn zone.
 ### What happens when you get killed ? 💀
 When you are killed, you have to wait 3 seconds before you respawn in the map. You have unlimited respawn.
-## Use cases 💡
 ### What happens when you kill an ennemy agent ? 💥🔫
 When you kill an ennemy, you have a 35% chance of dropping a PowerUp.
-## List of PowerUp ⭐
+### List of PowerUp ⭐
 Illimited ammo during 3sec  
 Sniper mode (one shot but you have a 3sec cooldown between 2 shots)  
 Shield during 3sec  
 Heal (you recover half your lost HP)  
 Invisibility during 2sec  
 5 coins
+## Use cases 💡
 ### For the admins
 Explain what the admin needs to do to host a game with students.
 ### For the player
