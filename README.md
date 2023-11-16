@@ -24,9 +24,12 @@ Explain what the admin needs to do to host a game with students.
 ### For the player
 --> README API
 ## Install 🔧
-Connect to ReplIt and launch the code following here -> (mettre lien code python)
+Connect to ReplIt and fork the code following here -> https://replit.com/@NicoMart1/Pyrush?v=1
 ## Tests 🧪
 No tests for now
 ## Road map
-Here on our Trello -> https://trello.com/b/EcnndV7f/pyrush
+A lot
 ## Authors 
+@Saloknight
+@TiksOmega
+@tf129
