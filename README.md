@@ -7,4 +7,4 @@ Autors:
 
   -tf129
 
-  -Tiks Omega
+  -TiksOmega
