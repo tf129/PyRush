@@ -3,8 +3,8 @@ In this README, you'll know PowerUps and weapons and their matching commands.
 ## List of weapons, their specs and their commands
 ### SMG mode
 The basic weapon. Shoots faster than lasergun and can be reloaded.  
-5sec reloading time  
-Command -> smg_mode()
+- 5sec reloading time  
+- Command -> smg_mode()
 ### Sniper mode
 It explains itself:  
 - 50% of drop chance  
@@ -21,8 +21,18 @@ Basically a big gun that shoots explosive rockets:
 - Command - > rocket_mode()
 ## List of PowerUps, their specs and their commands
 ### Reloading
-30% drop chance  
-Reloads 30% of your active weapon ammo  
+- 30% drop chance  
+- Reloads 30% of your active weapon ammo  
+- Command -> refuelAmmo()
 ### Shield
-10% drop chance
-Cancel all received damage during 3sec
+- 10% drop chance  
+- Cancel all received damage during 3sec  
+- Command -> shield()
+### Heal
+- 50% drop chance  
+- Gives you 50% of your lost HP  
+- Command -> heal()
+### Invisibility
+- 10% drop chance
+- Makes you invisible for you ennemy during 2sec  
+- Command -> invisibility()
