@@ -1,5 +1,5 @@
 # PyRush 🔫
-Pyrush is a Python project based on PytactX program we studied in class, that was created by Julien Arné (Jusdeliens), our teacher.
+Pyrush is a Python project based on PytactX (CC BY-NC-ND 3.0) we studied in class, that was created by Julien Arné (Jusdeliens), our teacher.
 Here's the link of the PytactX V2 replit: https://replit.com/@jusdeliens/pytactxv2
 ## Context and specifications 📓
 Since the start of our comupter sciences class and after learning instructions using PytactX, to create a project reusing everything we learnt in Python, we created this game named PyRush.
@@ -43,6 +43,8 @@ Connect to Replit and fork the code following here (Replit account needed)-> htt
 Tests in progress
 ## Road map
 WIP
+## License
+GNU GPLv3 (https://choosealicense.com/licenses/gpl-3.0/)
 ## Authors 
 @Saloknight  
 @TiksOmega  
