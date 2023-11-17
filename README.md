@@ -1,4 +1,4 @@
-# ![clearoff](https://github.com/tf129/PyRush/assets/137179704/248bea76-62d3-411b-b9af-16a9283ea54e)
+# ![clearoff (1)](https://github.com/tf129/PyRush/assets/137179704/ace0ba61-a707-4d57-ba81-23aeb6589735)
 Pyrush is a Python project based on PytactX (CC BY-NC-ND 3.0) we studied in class, that was created by Julien Arné (Jusdeliens), our teacher.
 Here's the link of the PytactX V2 replit: https://replit.com/@jusdeliens/pytactxv2
 ## Context and specifications 📓
