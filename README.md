@@ -5,7 +5,7 @@ Here's the link of the PytactX V2 replit: https://replit.com/@jusdeliens/pytactx
 Since the start of our comupter sciences class and after learning instructions using PytactX, to create a project reusing everything we learnt in Python, we created this game named PyRush.
 In a group of 3, we decided to use the DNA of shooting games : a territory capture
 ## Description ❓
-Our game is a mix between Tag and Shooter game. 
+Our game is a mix between Tag and Shooter game.
 ## Rules 📜
 When the game starts, 2 teams of 3 peoples fight to get in the ennemy's territory. A game lasts after 3 minutes of game. The winning team is the group who has the most points
 ### How to score points ? 🎯
@@ -13,7 +13,15 @@ The team can score a point if one of the player steps into the ennemy's spawn zo
 ### What happens when you get killed ? 💀
 When you are killed, you have to wait 3 seconds before you respawn in the map. You have unlimited respawn.
 ### What happens when you kill an ennemy agent ? 💥🔫
-When you kill an ennemy agent in your team zone, you have a 35% chance of dropping a PowerUp.
+When you kill an ennemy agent in your team zone, you have a 35% chance of dropping a PowerUp. (non)
+### Map 🗺️
+Here are some details of the colored objects/zone you can see in the map
+
+🟫 : Semi high walls where you can shoot at ennemies but cant walk by it
+🟩 : High walls where you can hide in. But you can't shoot and walk by it
+🟥 : Zone where the agents of the blue team have so step in to win a point
+🟦 : Zone where the agents of the red team have so step in to win a point
+🟡 : Pieces that spawn on the map every 10 seconds which gives you a power up
 ### List of PowerUp ⭐
 Illimited ammo during 3sec  
 Sniper mode (one shot but you have a 3sec cooldown between 2 shots)  
