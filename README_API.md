@@ -1,44 +1,28 @@
-# PyRush 🔫
-Pyrush is a Python project based on PytactX program we studied in class, that was created by Julien Arné (Jusdeliens), our teacher.
-Here's the link of the PytactX V2 replit: https://replit.com/@jusdeliens/pytactxv2
-## Context and specifications 📓
-Since the start of our comupter sciences class and after learning instructions using PytactX, to create a project reusing everything we learnt in Python, we created this game named PyRush.
-In a group of 3, we decided to use the DNA of shooting games : a territory capture
-## Description ❓
-Our game is a mix between Tag and Shooter game. 
-## Rules 📜
-When the game starts, 2 teams of 3 peoples fight to get in the ennemy's territory. A game lasts after 3 minutes of game. The winning team is the group who has the most points
-### How to score points ? 🎯
-The team can score a point if one of the player steps into the ennemy's spawn zone.
-### What happens when you get killed ? 💀
-When you are killed, you have to wait 3 seconds before you respawn in the map. You have unlimited respawn.
-### What happens when you kill an ennemy agent ? 💥🔫
-When you kill an ennemy agent in your team zone, you have a 35% chance of dropping a PowerUp.
-### List of PowerUp ⭐
-Illimited ammo during 3sec  
-Sniper mode (one shot but you have a 3sec cooldown between 2 shots)  
-Shield during 3sec  
-Heal (you recover half your lost HP)  
-Invisibility during 2sec  
-5 coins (à voir pour supprimer)
-## Use cases 💡
-### For the admins
-Explain what the admin needs to do to host a game with students.
-### For the player
---> README_API.txt
-## Pre needed ✅
-### For the admin
-- Python 3.12
-- Arena in PytactX
-### For the player
---> README API
-## Install 🔧
-Connect to Replit and fork the code following here (Replit account needed)-> https://replit.com/@NicoMart1/Pyrush?v=1
-## Tests 🧪
-Tests in progress
-## Road map
-WIP
-## Authors 
-@Saloknight  
-@TiksOmega  
-@tf129
+# PyRush API
+In this README, you'll know PowerUps and weapons and their matching commands.
+## List of weapons, their specs and their commands
+### SMG mode
+The basic weapon. Shoots faster than lasergun and can be reloaded.  
+5sec reloading time  
+Command -> smg_mode()
+### Sniper mode
+It explains itself:  
+- 50% of drop chance  
+- 2sec cooldown  
+- use 5 ammo  
+- one shot every ennemy  
+Command -> sniper_mode()
+### Rocket mode
+Basically a big gun that shoots explosive rockets:  
+- 50% of drop chance  
+- 5sec cooldown  
+- use 20 ammo  
+- deals area  damage (when the shot touch a wall or someone it drop a bomb which explode instantly)  
+- Command - > rocket_mode()
+## List of PowerUps, their specs and their commands
+### Reloading
+30% drop chance  
+Reloads 30% of your active weapon ammo  
+### Shield
+10% drop chance
+Cancel all received damage during 3sec
