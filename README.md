@@ -1,6 +1,6 @@
 # PyRush 🔫
-Pyrush is a Python project based on PytactX program we studied in class, that was created by Julien Arné, our teacher.
-Here's the link of PytactX : https://replit.com/
+Pyrush is a Python project based on PytactX program we studied in class, that was created by Julien Arné (Jusdeliens), our teacher.
+Here's the link of the PytactX V2 replit: https://replit.com/@jusdeliens/pytactxv2
 ## Context and specifications 📓
 Since the start of our comupter sciences class and after learning instructions using PytactX, to create a project reusing everything we learnt in Python, we created this game named PyRush.
 In a group of 3, we decided to use the DNA of shooting games : a territory capture
@@ -13,7 +13,7 @@ The team can score a point if one of the player steps into the ennemy's spawn zo
 ### What happens when you get killed ? 💀
 When you are killed, you have to wait 3 seconds before you respawn in the map. You have unlimited respawn.
 ### What happens when you kill an ennemy agent ? 💥🔫
-When you kill an ennemy, you have a 35% chance of dropping a PowerUp.
+When you kill an ennemy agent in your team zone, you have a 35% chance of dropping a PowerUp.
 ### List of PowerUp ⭐
 Illimited ammo during 3sec  
 Sniper mode (one shot but you have a 3sec cooldown between 2 shots)  
@@ -25,7 +25,7 @@ Invisibility during 2sec
 ### For the admins
 Explain what the admin needs to do to host a game with students.
 ### For the player
---> README API
+--> README_API.txt
 ## Pre needed ✅
 ### For the admin
 - Python 3.12
@@ -33,11 +33,11 @@ Explain what the admin needs to do to host a game with students.
 ### For the player
 --> README API
 ## Install 🔧
-Connect to ReplIt and fork the code following here -> https://replit.com/@NicoMart1/Pyrush?v=1
+Connect to Replit and fork the code following here (Replit account needed)-> https://replit.com/@NicoMart1/Pyrush?v=1
 ## Tests 🧪
-No tests for now
+Tests in progress
 ## Road map
-A lot
+WIP
 ## Authors 
 @Saloknight  
 @TiksOmega  
