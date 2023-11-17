@@ -23,15 +23,20 @@ Invisibility during 2sec
 5 coins (à voir pour supprimer)
 ## Use cases 💡
 ### For the admins
-Explain what the admin needs to do to host a game with students.
+Read Install section
 ### For the player
---> README_API.txt
+- README_API
 ## Pre needed ✅
 ### For the admin
-- Python 3.12
+- Computer with internet access
+- Python 3.12 (replit)
 - Arena in PytactX
+- Medium scripting skills
 ### For the player
---> README API
+- Computer with internet access
+- Python 3.12 (replit)
+- README_API
+- Basic scripting skills
 ## Install 🔧
 Connect to Replit and fork the code following here (Replit account needed)-> https://replit.com/@NicoMart1/Pyrush?v=1
 ## Tests 🧪
