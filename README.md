@@ -54,6 +54,9 @@ WIP
 ## License
 GNU GPLv3 (https://choosealicense.com/licenses/gpl-3.0/)
 ## Authors 
+###Code and developement
 @Saloknight  
 @TiksOmega  
 @tf129
+###Designer
+@Default_Asr
