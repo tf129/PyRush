@@ -1,11 +1,12 @@
 # PyRush API
 In this README, you'll know PowerUps and weapons and their matching commands.
 ## List of weapons, their specs and their commands
-### SMG mode
+### When you interact with a piece
+#### SMG mode
 The basic weapon. Shoots faster than lasergun and can be reloaded.  
 - 5sec reloading time  
 - Command -> smg_mode()
-### Sniper mode
+#### Sniper mode
 It explains itself:  
 - 50% of drop chance  
 - 2sec cooldown  
