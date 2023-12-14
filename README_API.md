@@ -1,5 +1,14 @@
 # PyRush API
 In this README, you'll know PowerUps and weapons and their matching commands.
+## What can you do in the map
+In the map of the game, you can do all the following acts with your bot :
+- Move all around the map
+- Shoot with your weapon
+- Kill ennemies
+- Score a point if you step in the ennemies's spawn zone
+- Get killed -> respawn in your spawn zone
+- Use powers ups -> if you do 3 kills
+- Change your weapon -> if you grab a piece
 ## List of weapons, their specs and their commands
 #### SMG mode
 The basic weapon. Shoots faster than lasergun and can be reloaded.  
